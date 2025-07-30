@@ -72,3 +72,6 @@ A significant reduction in size and improved performance can be achieved by usin
 The sample-and-hold circuit is commonly used in digital interfacing and communications such as analog-to-digital and pulse modulation systems.
 
 ![WhatsApp Image 2025-06-12 at 19 35 49_c39f33f2](https://github.com/user-attachments/assets/8d8861e7-d317-469c-ac5c-f6c225589565)
+<img width="1920" height="1080" alt="Screenshot (955)" src="https://github.com/user-attachments/assets/dba9fc75-3599-49b1-8100-fd7b5985bed8" />
+<img width="1920" height="1080" alt="Screenshot (954)" src="https://github.com/user-attachments/assets/affad86b-b106-4975-85bc-d064747b2f50" />
+
